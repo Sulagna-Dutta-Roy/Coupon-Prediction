@@ -5,3 +5,6 @@ Recruit Ponpare is Japan's leading joint coupon site, offering huge discounts on
 Investing in a new experience is not cheap. We fear wasting our time and money on a product or service that we may not enjoy or fully understand. Ponpare takes the high price out of this equation, making it easier for you to take the leap towards your first sky-dive or diamond engagement ring.
 
 Using past purchase and browsing behavior, this competition asks you to predict which coupons a customer will buy in a given period of time. The resulting models will be used to improve Ponpare's recommendation system, so they can make sure their customers don't miss out on their next favorite thing.
+
+## Dataset 
+https://www.kaggle.com/competitions/coupon-purchase-prediction/overview
